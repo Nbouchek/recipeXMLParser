@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>com.nacer</OriginalElement>
+  <nodes>
+    <node x="246.0" y="708.5">com.nacer.ContentTest</node>
+    <node x="604.7583333333333" y="708.0">com.nacer.Recipe</node>
+    <node x="39.06770833333337" y="398.5">com.nacer.IngredientTest</node>
+    <node x="311.0677083333333" y="354.0">com.nacer.Content</node>
+    <node x="490.109375" y="44.0">com.nacer.Method</node>
+    <node x="136.9708333333333" y="0.0">com.nacer.Ingredient</node>
+    <node x="0.0" y="786.0">com.nacer.FileIO</node>
+    <node x="716.4031249999999" y="1030.0">com.nacer.RecipeTest</node>
+    <node x="330.9083333333332" y="1140.5">com.nacer.Main</node>
+    <node x="862.0677083333333" y="376.0">com.nacer.MetaData</node>
+    <node x="602.0677083333333" y="409.5">com.nacer.MethodTest</node>
+    <node x="974.1510416666666" y="741.5">com.nacer.MetaDataTest</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="com.nacer.ContentTest" target="com.nacer.Content">
+      <point x="60.0" y="-135.5" />
+      <point x="426.0" y="688.0" />
+      <point x="392.36770833333327" y="688.0" />
+      <point x="-54.200000000000045" y="147.0" />
+    </edge>
+    <edge source="com.nacer.RecipeTest" target="com.nacer.Recipe">
+      <point x="-59.0" y="-135.5" />
+      <point x="775.4031249999999" y="1010.0" />
+      <point x="770.3833333333333" y="1010.0" />
+      <point x="33.125" y="136.0" />
+    </edge>
+    <edge source="com.nacer.Main" target="com.nacer.FileIO">
+      <point x="-48.66666666666663" y="-25.0" />
+      <point x="355.24166666666656" y="1010.0" />
+      <point x="113.0" y="1010.0" />
+      <point x="0.0" y="58.0" />
+    </edge>
+    <edge source="com.nacer.MetaDataTest" target="com.nacer.MetaData">
+      <point x="-62.75" y="-102.5" />
+      <point x="1036.9010416666665" y="688.0" />
+      <point x="1059.4677083333333" y="688.0" />
+      <point x="56.400000000000034" y="125.0" />
+    </edge>
+    <edge source="com.nacer.Content" target="com.nacer.Method">
+      <point x="112.91666666666663" y="-147.0" />
+      <point x="559.484375" y="334.0" />
+      <point x="625.609375" y="334.0" />
+      <point x="0.0" y="103.0" />
+    </edge>
+    <edge source="com.nacer.Content" target="com.nacer.Ingredient">
+      <point x="-67.75" y="-147.0" />
+      <point x="378.8177083333333" y="324.0" />
+      <point x="335.77083333333326" y="324.0" />
+      <point x="56.799999999999955" y="147.0" />
+    </edge>
+    <edge source="com.nacer.Recipe" target="com.nacer.Content">
+      <point x="-22.083333333333258" y="-136.0" />
+      <point x="715.1750000000001" y="668.0" />
+      <point x="554.9677083333333" y="668.0" />
+      <point x="108.39999999999998" y="147.0" />
+    </edge>
+    <edge source="com.nacer.MethodTest" target="com.nacer.Method">
+      <point x="-60.0" y="-91.5" />
+      <point x="662.0677083333333" y="334.0" />
+      <point x="679.809375" y="334.0" />
+      <point x="54.200000000000045" y="103.0" />
+    </edge>
+    <edge source="com.nacer.IngredientTest" target="com.nacer.Ingredient">
+      <point x="63.0" y="-102.5" />
+      <point x="228.06770833333337" y="334.0" />
+      <point x="222.1708333333333" y="334.0" />
+      <point x="-56.80000000000001" y="147.0" />
+    </edge>
+    <edge source="com.nacer.Main" target="com.nacer.Recipe">
+      <point x="0.0" y="-25.0" />
+      <point x="403.9083333333332" y="1000.0" />
+      <point x="637.8833333333333" y="1000.0" />
+      <point x="-99.375" y="136.0" />
+    </edge>
+    <edge source="com.nacer.Recipe" target="com.nacer.MetaData">
+      <point x="66.25" y="-136.0" />
+      <point x="803.5083333333333" y="678.0" />
+      <point x="946.6677083333334" y="678.0" />
+      <point x="-56.39999999999998" y="125.0" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="0.4469870327993898" x="608.0" y="665.5" />
+  <SelectedNodes />
+  <Categories>
+    <Category>Fields</Category>
+    <Category>Constructors</Category>
+    <Category>Methods</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+

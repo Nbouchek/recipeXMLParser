@@ -1,0 +1,44 @@
+<Recipe id="﻿1">
+<Metadata>
+<Created>2018-12-03</Created>
+<Author>Sam Thompson</Author>
+<Title>Lemon Cake</Title>
+</Metadata>
+<Content>
+<Lead>This is a wonderfully delicious recipe for cake.</Lead>
+<Ingredients>
+<Ingredient>
+<Amount>225</Amount>
+<Unit>g</Unit>
+<Item>unsalted butter</Item>
+</Ingredient>
+<Ingredient>
+<Amount>225</Amount>
+<Unit>g</Unit>
+<Item>caster sugar</Item>
+</Ingredient>
+<Ingredient>
+<Amount>4</Amount>
+<Item>eggs</Item>
+</Ingredient>
+<Ingredient>
+<Amount>225</Amount>
+<Unit>g</Unit>
+<Item>self-raising flour</Item>
+</Ingredient>
+<Ingredient>
+<Amount>1</Amount>
+<Item>lemon zested</Item>
+</Ingredient>
+</Ingredients>
+<Method>
+<Step>Preheat the oven to 180 degrees C.</Step>
+<Step>Beat together butter and sugar.</Step>
+<Step>Mix in eggs, ont at a time.</Step>
+<Step>Sift in flour and add lemon zest.</Step>
+<Step>Line loaf time with graseproof paper and spoon mixture in</Step>
+<Step>Bake for 45-50 minutes.</Step>
+</Method>
+</Content>
+</Recipe>
+

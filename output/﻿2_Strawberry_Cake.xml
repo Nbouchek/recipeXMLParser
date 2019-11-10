@@ -1,0 +1,43 @@
+<Recipe id="﻿2">
+<Metadata>
+<Created>2019-11-10</Created>
+<Author>Nacer Bouchekhima</Author>
+<Title>Strawberry Cake</Title>
+</Metadata>
+<Content>
+<Lead>A delicious recipe for strawberry.</Lead>
+<Ingredients>
+<Ingredient>
+<Amount>200</Amount>
+<Item>unsalted butter</Item>
+</Ingredient>
+<Ingredient>
+<Amount>175</Amount>
+<Unit>g</Unit>
+<Item>caster sugar</Item>
+</Ingredient>
+<Ingredient>
+<Amount>3</Amount>
+<Item>eggs</Item>
+</Ingredient>
+<Ingredient>
+<Amount>115</Amount>
+<Unit>g</Unit>
+<Item>self-raising flour</Item>
+</Ingredient>
+<Ingredient>
+<Amount>1</Amount>
+<Item>fresh strawberry</Item>
+</Ingredient>
+</Ingredients>
+<Method>
+<Step>Preheat the oven to 180 degrees C.</Step>
+<Step>Beat together butter and sugar.</Step>
+<Step>Mix in eggs, ont at a time.</Step>
+<Step>Sift in flour and add lemon zest.</Step>
+<Step>Line loaf time with graseproof paper and spoon mixture in</Step>
+<Step>Bake for 40-55 minutes.</Step>
+</Method>
+</Content>
+</Recipe>
+
