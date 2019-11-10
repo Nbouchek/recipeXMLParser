@@ -12,7 +12,7 @@ Unit tests are included in the test folder.
 Included is a UML diagram, in uml and png formats, showing the application classes and  dependencies. See classDiagram.png / classDiagram.uml
 
 ## How to run this program
-1. Ensure that you plain text recipes are valid and stored in a folder <input>
+1. Ensure that your plain text recipes are valid and stored in a folder <input>
 2. Build then from terminal change your working directory to the produced class file
 3. Execute the following command:
 
