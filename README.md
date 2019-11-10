@@ -20,19 +20,22 @@ Included is a UML diagram, in uml and png formats, showing the application class
 
 
 ## Assumptions:
-1.	The provided arguments are always valid, hence no checks are performed.
-2.	Each input file contains the details of a specific recipe:
-3.	A recipe file consists of four sections:
-  a.	a line specifying the id, the title, author and the date when the recipe was written. 
+- The provided arguments are always valid, hence no checks are performed.
+- Each input file contains the details of a specific recipe:
+- A recipe file consists of four sections:
+    -	a line specifying the id, the title, author and the date when the recipe was written. 
       These are stored in the metadata section of the generated xml file
-  b.	a section that contains a brief description of the recipe: Lead.
-  c.	a section for the Ingredients, and
-  d.	a section for the Method
-4.	The Lead, Ingredients and Method are stored in the Content section of the generated xml file.
-5.	A recipe consists of one or more ingredients. 
-6.	Each ingredient is described in one line.
-7.	An ingredient consists of an amount, a unit and an item
-8.	Some ingredients do not have an amount or a unit.   
-9.	A Method has one or more steps.
-10.	Each step is described in one line.
-11.	A step does not necessarily start with a number.
+
+    -	a section that contains a brief description of the recipe: Lead.
+
+    -	a section for the Ingredients, and
+
+    -	a section for the Method
+- The Lead, Ingredients and Method are stored in the Content section of the generated xml file.
+- A recipe consists of one or more ingredients. 
+- Each ingredient is described in one line.
+- An ingredient consists of an amount, a unit and an item
+- Some ingredients do not have an amount or a unit.   
+- A Method has one or more steps.
+- Each step is described in one line.
+- A step does not necessarily start with a number.
