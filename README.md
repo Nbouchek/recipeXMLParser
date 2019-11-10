@@ -1,6 +1,6 @@
 # xmlParser
 
-This is a command line Java -OpenJDK 13- implementation for the recipe parsing task.
+This is a command line Java -OpenJDK 13- implementation for the recipe parsing task. JUnit 5 is used for unit testing.
 
 It takes in two arguments:
   1.	A path to a directory of recipes to process.
