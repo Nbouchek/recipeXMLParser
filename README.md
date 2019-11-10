@@ -9,7 +9,15 @@ And it generates a separate XML file for each recipe.
 
 Unit tests are included in the test folder.
 
-Included is a UML digram, in uml and png formats, showing the application classes and  dependencies. See classDiagram.png / classDiagram.uml
+Included is a UML diagram, in uml and png formats, showing the application classes and  dependencies. See classDiagram.png / classDiagram.uml
+
+## How to run this program
+1. Ensure that that you plain text recipes are valid and stored in a folder <input>
+2. Build then from terminal change your working directory to the produced class file
+3. Execute the following command:
+
+`java Main <path-toinput-folder> <path-to-output-folder>`
+
 
 ## Assumptions:
 1.	The provided arguments are always valid, hence no checks are performed.
