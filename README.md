@@ -6,7 +6,7 @@ It takes in two arguments:
   1.	A path to a directory of recipes to process.
   2.	A path to a directory to write the results out to.
 
-And it generates a separate XML file for each recipe and stores them in the result directory.
+And it generates a separate XML file for each recipe and stores them in the results directory.
 
 Unit tests are included in the test folder.
 
