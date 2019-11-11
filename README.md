@@ -5,7 +5,8 @@ This is a command line Java -OpenJDK 13- implementation for the recipe parsing t
 It takes in two arguments:
   1.	A path to a directory of recipes to process.
   2.	A path to a directory to write the results out to.
-And it generates a separate XML file for each recipe.
+
+And it generates a separate XML file for each recipe and stores them in the result directory.
 
 Unit tests are included in the test folder.
 
